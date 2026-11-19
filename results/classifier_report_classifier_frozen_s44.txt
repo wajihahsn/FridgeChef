@@ -1,0 +1,25 @@
+              precision    recall  f1-score   support
+
+       apple       0.77      0.56      0.65        18
+     avocado       0.90      1.00      0.95        18
+      banana       0.88      1.00      0.94        22
+ bell pepper       0.89      0.84      0.86        19
+     cabbage       1.00      1.00      1.00        26
+      carrot       1.00      1.00      1.00        24
+        corn       1.00      1.00      1.00        17
+    cucumber       1.00      0.86      0.92        28
+    eggplant       1.00      1.00      1.00        18
+       lemon       0.82      1.00      0.90        18
+        lime       1.00      1.00      1.00        19
+       mango       0.80      0.96      0.87        25
+       onion       1.00      0.93      0.97        15
+      orange       1.00      0.83      0.91        24
+        pear       0.86      1.00      0.92        12
+      potato       0.78      0.88      0.82        16
+sweet potato       1.00      1.00      1.00        19
+      tomato       0.88      0.75      0.81        20
+    zucchini       1.00      1.00      1.00        22
+
+    accuracy                           0.93       380
+   macro avg       0.92      0.93      0.92       380
+weighted avg       0.93      0.93      0.92       380
