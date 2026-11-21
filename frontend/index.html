@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FridgeChef · What can I cook?</title>
+<meta name="description" content="Type what is in your fridge and get ranked recipes, missing items and substitutions.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="bg" aria-hidden="true"><i></i><i></i></div>
+<main>
+  <header class="hero">
+    <h1>Fridge<span>Chef</span></h1>
+    <p>Tell us what's in your fridge. We'll tell you what's for dinner.</p>
+    <div class="badges" id="badges" aria-live="polite"></div>
+  </header>
+
+  <section class="card" aria-labelledby="h-fridge">
+    <h2 id="h-fridge">1 · Your ingredients</h2>
+    <form id="addform" class="row" autocomplete="off">
+      <input id="ing" list="vocab" placeholder="e.g. tomato, 2 cloves garlic, eggs…" aria-label="Add an ingredient">
+      <button id="add" class="btn" type="submit">Add</button>
+      <button id="demo" class="btn ghost" type="button">Example</button>
+      <button id="clear" class="btn ghost" type="button">Clear</button>
+    </form>
+    <datalist id="vocab"></datalist>
+    <p class="hint">Separate several items with commas. Plurals, amounts and small typos are fixed for you.</p>
+
+    <div id="chips" class="chips" aria-label="Your ingredients"></div>
+    <p id="note" class="note" hidden></p>
+
+    <div class="quick"><span class="label">Quick add</span><div id="popular" class="chips small"></div></div>
+
+    <div class="photo-zone" id="drop">
+      <label class="btn ghost photo" for="photo">📷 Add from a photo</label>
+      <input id="photo" type="file" accept="image/*" multiple hidden>
+      <span class="hint" id="photohint">Upload a photo of a single ingredient (or drag it here), then confirm the guess.</span>
+      <div id="previews" class="previews"></div>
+      <div id="detected" class="chips"></div>
+    </div>
+  </section>
+
+  <section class="card" aria-labelledby="h-filters">
+    <h2 id="h-filters">2 · Preferences</h2>
+    <div class="filters">
+      <label>Max cooking time: <b id="tv">60 min</b>
+        <input id="time" type="range" min="10" max="180" step="5" value="60"></label>
+      <label>Max missing ingredients: <b id="mv">2</b>
+        <input id="miss" type="range" min="0" max="6" value="2"></label>
+      <label>Ranking method
+        <select id="method">
+          <option value="utility">Utility score (smart)</option>
+          <option value="baseline">Plain overlap (baseline)</option>
+          <option value="compare">Compare both side by side</option>
+        </select></label>
+    </div>
+    <button id="go" class="btn primary" type="button">Find recipes 🍳</button>
+    <p id="msg" class="msg" role="status" aria-live="polite"></p>
+  </section>
+
+  <section id="results" aria-live="polite"></section>
+
+  <footer>FridgeChef | Hungry? Your fridge has the answer! </footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
