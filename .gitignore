@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+data/recipes.json
+data/raw/
+data/images/
+models/*.pt
+models/ingredient_w2v_*
+results/*.png
+data/relevance*.csv
+data/substitution_template.csv
+data/substitution_ratings.csv
