@@ -1,0 +1,5 @@
+# Photo recognition (MobileNetV2 transfer learning). Large download (~200 MB+).
+torch>=2.2
+torchvision>=0.17
+# optional, only for scripts/download_data.py
+# kagglehub
