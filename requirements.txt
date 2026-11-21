@@ -1,0 +1,9 @@
+# Core app + scripts (no GPU / PyTorch needed). Python 3.10 - 3.13.
+flask>=3.0
+rapidfuzz>=3.0
+gensim>=4.3.3
+pandas>=2.0
+pillow>=10.0
+scikit-learn>=1.4
+matplotlib>=3.8
+pytest>=8.0
