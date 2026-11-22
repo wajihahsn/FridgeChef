@@ -1,0 +1,2136 @@
+[
+ {
+  "name": "Tomato Omelette",
+  "minutes": 10,
+  "ingredients": [
+   "eggs",
+   "tomato",
+   "onion",
+   "salt",
+   "butter"
+  ],
+  "steps": [
+   "Saute chopped onion and tomato in butter.",
+   "Pour in beaten eggs and cook until set."
+  ]
+ },
+ {
+  "name": "Spinach Cheese Omelette",
+  "minutes": 10,
+  "ingredients": [
+   "eggs",
+   "spinach",
+   "cheese",
+   "butter"
+  ],
+  "steps": [
+   "Wilt spinach in butter.",
+   "Add beaten eggs and cheese, fold and serve."
+  ]
+ },
+ {
+  "name": "Mushroom Omelette",
+  "minutes": 12,
+  "ingredients": [
+   "eggs",
+   "mushroom",
+   "butter",
+   "cheese",
+   "salt"
+  ],
+  "steps": [
+   "Brown sliced mushrooms in butter.",
+   "Add beaten eggs and cheese and fold."
+  ]
+ },
+ {
+  "name": "Scrambled Eggs on Toast",
+  "minutes": 8,
+  "ingredients": [
+   "eggs",
+   "bread",
+   "butter",
+   "milk",
+   "salt"
+  ],
+  "steps": [
+   "Whisk eggs with milk.",
+   "Scramble gently in butter.",
+   "Serve on toasted bread."
+  ]
+ },
+ {
+  "name": "Egg Fried Rice",
+  "minutes": 15,
+  "ingredients": [
+   "rice",
+   "eggs",
+   "carrot",
+   "onion",
+   "soy sauce",
+   "oil"
+  ],
+  "steps": [
+   "Stir fry onion and carrot.",
+   "Add cooked rice, eggs and soy sauce.",
+   "Toss until hot."
+  ]
+ },
+ {
+  "name": "Vegetable Fried Rice",
+  "minutes": 18,
+  "ingredients": [
+   "rice",
+   "carrot",
+   "pea",
+   "onion",
+   "soy sauce",
+   "garlic",
+   "oil"
+  ],
+  "steps": [
+   "Fry garlic and onion.",
+   "Add vegetables and rice.",
+   "Season with soy sauce."
+  ]
+ },
+ {
+  "name": "Tomato Pasta",
+  "minutes": 20,
+  "ingredients": [
+   "pasta",
+   "tomato",
+   "garlic",
+   "onion",
+   "olive oil",
+   "cheese"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Cook garlic, onion and tomato into a sauce.",
+   "Toss with pasta and cheese."
+  ]
+ },
+ {
+  "name": "Creamy Mushroom Pasta",
+  "minutes": 25,
+  "ingredients": [
+   "pasta",
+   "mushroom",
+   "cream",
+   "garlic",
+   "butter"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Cook mushrooms and garlic in butter.",
+   "Stir in cream and toss with pasta."
+  ]
+ },
+ {
+  "name": "Garlic Butter Pasta",
+  "minutes": 15,
+  "ingredients": [
+   "pasta",
+   "garlic",
+   "butter",
+   "parsley",
+   "cheese"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Melt garlic in butter.",
+   "Toss with parsley and cheese."
+  ]
+ },
+ {
+  "name": "Pasta Carbonara",
+  "minutes": 25,
+  "ingredients": [
+   "pasta",
+   "eggs",
+   "bacon",
+   "cheese",
+   "pepper"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Crisp the bacon.",
+   "Toss hot pasta with eggs and cheese off the heat."
+  ]
+ },
+ {
+  "name": "Chicken Rice Bowl",
+  "minutes": 35,
+  "ingredients": [
+   "chicken",
+   "rice",
+   "onion",
+   "garlic",
+   "soy sauce",
+   "oil"
+  ],
+  "steps": [
+   "Brown chicken with onion and garlic.",
+   "Add soy sauce.",
+   "Serve over rice."
+  ]
+ },
+ {
+  "name": "Lemon Garlic Chicken",
+  "minutes": 30,
+  "ingredients": [
+   "chicken",
+   "lemon",
+   "garlic",
+   "butter",
+   "salt"
+  ],
+  "steps": [
+   "Sear chicken in butter.",
+   "Add garlic and lemon juice.",
+   "Simmer until cooked."
+  ]
+ },
+ {
+  "name": "Chicken Curry",
+  "minutes": 45,
+  "ingredients": [
+   "chicken",
+   "onion",
+   "tomato",
+   "garlic",
+   "ginger",
+   "yogurt",
+   "chili powder",
+   "oil"
+  ],
+  "steps": [
+   "Fry onion, garlic and ginger.",
+   "Add tomato, spices and chicken.",
+   "Simmer with yogurt."
+  ]
+ },
+ {
+  "name": "Chicken Noodle Soup",
+  "minutes": 40,
+  "ingredients": [
+   "chicken",
+   "noodles",
+   "carrot",
+   "celery",
+   "onion",
+   "water"
+  ],
+  "steps": [
+   "Simmer chicken with vegetables.",
+   "Add noodles.",
+   "Shred chicken and serve."
+  ]
+ },
+ {
+  "name": "Chicken Fajitas",
+  "minutes": 25,
+  "ingredients": [
+   "chicken",
+   "bell pepper",
+   "onion",
+   "tortilla",
+   "cumin",
+   "lime"
+  ],
+  "steps": [
+   "Slice chicken and vegetables.",
+   "Fry with cumin.",
+   "Serve in tortillas with lime."
+  ]
+ },
+ {
+  "name": "Chicken Salad Sandwich",
+  "minutes": 15,
+  "ingredients": [
+   "chicken",
+   "bread",
+   "mayonnaise",
+   "celery",
+   "lettuce"
+  ],
+  "steps": [
+   "Mix shredded chicken with mayonnaise and celery.",
+   "Layer on bread with lettuce."
+  ]
+ },
+ {
+  "name": "Chicken Stir Fry",
+  "minutes": 20,
+  "ingredients": [
+   "chicken",
+   "broccoli",
+   "carrot",
+   "garlic",
+   "soy sauce",
+   "oil"
+  ],
+  "steps": [
+   "Stir fry chicken.",
+   "Add vegetables and garlic.",
+   "Finish with soy sauce."
+  ]
+ },
+ {
+  "name": "Creamy Potato Mash",
+  "minutes": 30,
+  "ingredients": [
+   "potato",
+   "milk",
+   "butter",
+   "salt"
+  ],
+  "steps": [
+   "Boil potatoes.",
+   "Mash with warm milk and butter."
+  ]
+ },
+ {
+  "name": "Cheesy Baked Potato",
+  "minutes": 55,
+  "ingredients": [
+   "potato",
+   "cheese",
+   "onion",
+   "butter",
+   "sour cream"
+  ],
+  "steps": [
+   "Bake potatoes.",
+   "Split and top with cheese, onion and sour cream."
+  ]
+ },
+ {
+  "name": "Potato Wedges",
+  "minutes": 40,
+  "ingredients": [
+   "potato",
+   "olive oil",
+   "paprika",
+   "garlic",
+   "salt"
+  ],
+  "steps": [
+   "Cut potatoes into wedges.",
+   "Toss with oil and spices.",
+   "Roast until golden."
+  ]
+ },
+ {
+  "name": "Potato Soup",
+  "minutes": 35,
+  "ingredients": [
+   "potato",
+   "onion",
+   "milk",
+   "butter",
+   "garlic"
+  ],
+  "steps": [
+   "Soften onion in butter.",
+   "Simmer with potato.",
+   "Blend and stir in milk."
+  ]
+ },
+ {
+  "name": "Aloo Gobi",
+  "minutes": 40,
+  "ingredients": [
+   "potato",
+   "cauliflower",
+   "onion",
+   "tomato",
+   "cumin",
+   "ginger",
+   "oil"
+  ],
+  "steps": [
+   "Fry onion and spices.",
+   "Add vegetables and tomato.",
+   "Cover and cook until soft."
+  ]
+ },
+ {
+  "name": "Spanish Tortilla",
+  "minutes": 35,
+  "ingredients": [
+   "potato",
+   "eggs",
+   "onion",
+   "olive oil",
+   "salt"
+  ],
+  "steps": [
+   "Fry sliced potato and onion.",
+   "Mix with eggs.",
+   "Cook as a thick omelette."
+  ]
+ },
+ {
+  "name": "Beef Burger",
+  "minutes": 25,
+  "ingredients": [
+   "beef",
+   "bread",
+   "onion",
+   "lettuce",
+   "tomato",
+   "cheese"
+  ],
+  "steps": [
+   "Shape and grill patties.",
+   "Serve in bread with toppings."
+  ]
+ },
+ {
+  "name": "Beef Tacos",
+  "minutes": 25,
+  "ingredients": [
+   "beef",
+   "tortilla",
+   "tomato",
+   "onion",
+   "cheese",
+   "cumin",
+   "lettuce"
+  ],
+  "steps": [
+   "Brown beef with cumin.",
+   "Fill tortillas and add toppings."
+  ]
+ },
+ {
+  "name": "Spaghetti Bolognese",
+  "minutes": 50,
+  "ingredients": [
+   "beef",
+   "pasta",
+   "tomato",
+   "onion",
+   "garlic",
+   "carrot",
+   "olive oil"
+  ],
+  "steps": [
+   "Brown beef with onion and garlic.",
+   "Simmer with tomato and carrot.",
+   "Serve over pasta."
+  ]
+ },
+ {
+  "name": "Beef Stir Fry",
+  "minutes": 20,
+  "ingredients": [
+   "beef",
+   "bell pepper",
+   "onion",
+   "soy sauce",
+   "garlic",
+   "oil"
+  ],
+  "steps": [
+   "Sear beef.",
+   "Add vegetables and garlic.",
+   "Finish with soy sauce."
+  ]
+ },
+ {
+  "name": "Beef and Potato Stew",
+  "minutes": 90,
+  "ingredients": [
+   "beef",
+   "potato",
+   "carrot",
+   "onion",
+   "tomato paste",
+   "water"
+  ],
+  "steps": [
+   "Brown beef.",
+   "Add vegetables and tomato paste.",
+   "Simmer until tender."
+  ]
+ },
+ {
+  "name": "Chili Con Carne",
+  "minutes": 60,
+  "ingredients": [
+   "beef",
+   "kidney bean",
+   "tomato",
+   "onion",
+   "garlic",
+   "chili powder",
+   "cumin"
+  ],
+  "steps": [
+   "Brown beef and onion.",
+   "Add beans, tomato and spices.",
+   "Simmer."
+  ]
+ },
+ {
+  "name": "Shepherd's Pie",
+  "minutes": 70,
+  "ingredients": [
+   "beef",
+   "potato",
+   "carrot",
+   "onion",
+   "pea",
+   "butter",
+   "milk"
+  ],
+  "steps": [
+   "Cook beef with vegetables.",
+   "Top with mashed potato.",
+   "Bake until golden."
+  ]
+ },
+ {
+  "name": "Grilled Cheese Sandwich",
+  "minutes": 10,
+  "ingredients": [
+   "bread",
+   "cheese",
+   "butter"
+  ],
+  "steps": [
+   "Butter the bread.",
+   "Fill with cheese.",
+   "Fry until golden."
+  ]
+ },
+ {
+  "name": "Cheese Toast",
+  "minutes": 8,
+  "ingredients": [
+   "bread",
+   "cheese",
+   "butter"
+  ],
+  "steps": [
+   "Top bread with cheese.",
+   "Grill until melted."
+  ]
+ },
+ {
+  "name": "French Toast",
+  "minutes": 15,
+  "ingredients": [
+   "bread",
+   "eggs",
+   "milk",
+   "sugar",
+   "butter"
+  ],
+  "steps": [
+   "Whisk eggs, milk and sugar.",
+   "Soak bread.",
+   "Fry in butter."
+  ]
+ },
+ {
+  "name": "Avocado Toast",
+  "minutes": 8,
+  "ingredients": [
+   "bread",
+   "avocado",
+   "lemon",
+   "salt",
+   "tomato"
+  ],
+  "steps": [
+   "Toast the bread.",
+   "Mash avocado with lemon.",
+   "Top with tomato."
+  ]
+ },
+ {
+  "name": "Egg Sandwich",
+  "minutes": 12,
+  "ingredients": [
+   "bread",
+   "eggs",
+   "mayonnaise",
+   "lettuce",
+   "salt"
+  ],
+  "steps": [
+   "Boil and chop eggs.",
+   "Mix with mayonnaise.",
+   "Fill bread with lettuce."
+  ]
+ },
+ {
+  "name": "Tuna Sandwich",
+  "minutes": 10,
+  "ingredients": [
+   "tuna",
+   "bread",
+   "mayonnaise",
+   "celery",
+   "lettuce"
+  ],
+  "steps": [
+   "Mix tuna with mayonnaise and celery.",
+   "Fill bread."
+  ]
+ },
+ {
+  "name": "Tuna Pasta",
+  "minutes": 20,
+  "ingredients": [
+   "tuna",
+   "pasta",
+   "tomato",
+   "garlic",
+   "olive oil",
+   "parsley"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Warm garlic and tomato.",
+   "Toss with tuna and parsley."
+  ]
+ },
+ {
+  "name": "Tuna Salad",
+  "minutes": 10,
+  "ingredients": [
+   "tuna",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "olive oil",
+   "lemon"
+  ],
+  "steps": [
+   "Combine vegetables and tuna.",
+   "Dress with oil and lemon."
+  ]
+ },
+ {
+  "name": "Greek Salad",
+  "minutes": 10,
+  "ingredients": [
+   "cucumber",
+   "tomato",
+   "onion",
+   "feta",
+   "olive oil",
+   "olive"
+  ],
+  "steps": [
+   "Chop vegetables.",
+   "Add feta and olives.",
+   "Dress with oil."
+  ]
+ },
+ {
+  "name": "Caprese Salad",
+  "minutes": 8,
+  "ingredients": [
+   "tomato",
+   "mozzarella",
+   "basil",
+   "olive oil",
+   "salt"
+  ],
+  "steps": [
+   "Slice tomato and mozzarella.",
+   "Layer with basil and drizzle oil."
+  ]
+ },
+ {
+  "name": "Cucumber Yogurt Salad",
+  "minutes": 8,
+  "ingredients": [
+   "cucumber",
+   "yogurt",
+   "garlic",
+   "mint",
+   "salt"
+  ],
+  "steps": [
+   "Grate cucumber.",
+   "Mix with yogurt, garlic and mint."
+  ]
+ },
+ {
+  "name": "Green Salad",
+  "minutes": 8,
+  "ingredients": [
+   "lettuce",
+   "cucumber",
+   "tomato",
+   "carrot",
+   "olive oil",
+   "lemon"
+  ],
+  "steps": [
+   "Chop vegetables.",
+   "Dress with oil and lemon."
+  ]
+ },
+ {
+  "name": "Coleslaw",
+  "minutes": 12,
+  "ingredients": [
+   "cabbage",
+   "carrot",
+   "mayonnaise",
+   "vinegar",
+   "sugar"
+  ],
+  "steps": [
+   "Shred vegetables.",
+   "Mix with mayonnaise, vinegar and sugar."
+  ]
+ },
+ {
+  "name": "Potato Salad",
+  "minutes": 30,
+  "ingredients": [
+   "potato",
+   "eggs",
+   "mayonnaise",
+   "onion",
+   "celery",
+   "salt"
+  ],
+  "steps": [
+   "Boil potatoes and eggs.",
+   "Chop and fold with mayonnaise and onion."
+  ]
+ },
+ {
+  "name": "Pasta Salad",
+  "minutes": 20,
+  "ingredients": [
+   "pasta",
+   "tomato",
+   "cucumber",
+   "olive",
+   "olive oil",
+   "cheese"
+  ],
+  "steps": [
+   "Boil and cool pasta.",
+   "Toss with vegetables and oil."
+  ]
+ },
+ {
+  "name": "Chickpea Salad",
+  "minutes": 10,
+  "ingredients": [
+   "chickpea",
+   "cucumber",
+   "tomato",
+   "onion",
+   "lemon",
+   "olive oil"
+  ],
+  "steps": [
+   "Mix everything.",
+   "Dress with lemon and oil."
+  ]
+ },
+ {
+  "name": "Hummus",
+  "minutes": 10,
+  "ingredients": [
+   "chickpea",
+   "garlic",
+   "lemon",
+   "tahini",
+   "olive oil",
+   "salt"
+  ],
+  "steps": [
+   "Blend chickpeas, tahini, garlic and lemon.",
+   "Drizzle with oil."
+  ]
+ },
+ {
+  "name": "Chana Masala",
+  "minutes": 35,
+  "ingredients": [
+   "chickpea",
+   "onion",
+   "tomato",
+   "garlic",
+   "ginger",
+   "chili powder",
+   "cumin",
+   "oil"
+  ],
+  "steps": [
+   "Fry onion, garlic and ginger.",
+   "Add tomato and spices.",
+   "Simmer chickpeas."
+  ]
+ },
+ {
+  "name": "Lentil Soup",
+  "minutes": 40,
+  "ingredients": [
+   "lentil",
+   "onion",
+   "carrot",
+   "garlic",
+   "cumin",
+   "water"
+  ],
+  "steps": [
+   "Fry onion and carrot.",
+   "Add lentils, cumin and water.",
+   "Simmer until soft."
+  ]
+ },
+ {
+  "name": "Dal Tadka",
+  "minutes": 35,
+  "ingredients": [
+   "lentil",
+   "onion",
+   "tomato",
+   "garlic",
+   "cumin",
+   "butter"
+  ],
+  "steps": [
+   "Boil lentils.",
+   "Fry onion, garlic and cumin in butter.",
+   "Mix together."
+  ]
+ },
+ {
+  "name": "Black Bean Burritos",
+  "minutes": 20,
+  "ingredients": [
+   "black bean",
+   "rice",
+   "tortilla",
+   "cheese",
+   "onion",
+   "cumin"
+  ],
+  "steps": [
+   "Warm beans with cumin.",
+   "Fill tortillas with rice and cheese."
+  ]
+ },
+ {
+  "name": "Bean Quesadilla",
+  "minutes": 15,
+  "ingredients": [
+   "kidney bean",
+   "tortilla",
+   "cheese",
+   "onion",
+   "cumin"
+  ],
+  "steps": [
+   "Mash beans with cumin.",
+   "Fill tortilla with cheese.",
+   "Fry until crisp."
+  ]
+ },
+ {
+  "name": "Cheese Quesadilla",
+  "minutes": 10,
+  "ingredients": [
+   "tortilla",
+   "cheese",
+   "butter"
+  ],
+  "steps": [
+   "Fill tortilla with cheese.",
+   "Fry in butter until crisp."
+  ]
+ },
+ {
+  "name": "Veggie Quesadilla",
+  "minutes": 15,
+  "ingredients": [
+   "tortilla",
+   "cheese",
+   "bell pepper",
+   "onion",
+   "mushroom"
+  ],
+  "steps": [
+   "Saute vegetables.",
+   "Fill tortilla with cheese.",
+   "Fry until crisp."
+  ]
+ },
+ {
+  "name": "Mushroom Risotto",
+  "minutes": 40,
+  "ingredients": [
+   "rice",
+   "mushroom",
+   "onion",
+   "butter",
+   "cheese",
+   "garlic",
+   "water"
+  ],
+  "steps": [
+   "Soften onion and garlic.",
+   "Stir in rice and warm water gradually.",
+   "Finish with butter and cheese."
+  ]
+ },
+ {
+  "name": "Rice Pudding",
+  "minutes": 40,
+  "ingredients": [
+   "rice",
+   "milk",
+   "sugar",
+   "cinnamon",
+   "butter"
+  ],
+  "steps": [
+   "Simmer rice in milk.",
+   "Sweeten and add cinnamon."
+  ]
+ },
+ {
+  "name": "Egg Curry",
+  "minutes": 30,
+  "ingredients": [
+   "eggs",
+   "onion",
+   "tomato",
+   "garlic",
+   "ginger",
+   "chili powder",
+   "oil"
+  ],
+  "steps": [
+   "Boil eggs.",
+   "Make a sauce with onion, tomato and spices.",
+   "Simmer eggs."
+  ]
+ },
+ {
+  "name": "Shakshuka",
+  "minutes": 25,
+  "ingredients": [
+   "eggs",
+   "tomato",
+   "bell pepper",
+   "onion",
+   "garlic",
+   "cumin",
+   "olive oil"
+  ],
+  "steps": [
+   "Cook vegetables with cumin.",
+   "Make wells and poach eggs in the sauce."
+  ]
+ },
+ {
+  "name": "Egg Salad",
+  "minutes": 15,
+  "ingredients": [
+   "eggs",
+   "mayonnaise",
+   "mustard",
+   "celery",
+   "salt"
+  ],
+  "steps": [
+   "Boil and chop eggs.",
+   "Mix with mayonnaise and mustard."
+  ]
+ },
+ {
+  "name": "Deviled Eggs",
+  "minutes": 20,
+  "ingredients": [
+   "eggs",
+   "mayonnaise",
+   "mustard",
+   "paprika",
+   "salt"
+  ],
+  "steps": [
+   "Halve boiled eggs.",
+   "Mix yolks with mayonnaise and mustard.",
+   "Refill and dust with paprika."
+  ]
+ },
+ {
+  "name": "Veggie Omelette",
+  "minutes": 12,
+  "ingredients": [
+   "eggs",
+   "bell pepper",
+   "onion",
+   "tomato",
+   "cheese",
+   "butter"
+  ],
+  "steps": [
+   "Saute vegetables.",
+   "Add eggs and cheese.",
+   "Fold."
+  ]
+ },
+ {
+  "name": "Pancakes",
+  "minutes": 20,
+  "ingredients": [
+   "flour",
+   "milk",
+   "eggs",
+   "sugar",
+   "butter",
+   "baking powder"
+  ],
+  "steps": [
+   "Whisk batter.",
+   "Fry spoonfuls in butter until golden."
+  ]
+ },
+ {
+  "name": "Banana Pancakes",
+  "minutes": 15,
+  "ingredients": [
+   "banana",
+   "eggs",
+   "flour",
+   "milk",
+   "butter"
+  ],
+  "steps": [
+   "Mash banana into batter.",
+   "Fry small pancakes."
+  ]
+ },
+ {
+  "name": "Banana Smoothie",
+  "minutes": 5,
+  "ingredients": [
+   "banana",
+   "milk",
+   "honey",
+   "yogurt"
+  ],
+  "steps": [
+   "Blend everything until smooth."
+  ]
+ },
+ {
+  "name": "Berry Yogurt Bowl",
+  "minutes": 5,
+  "ingredients": [
+   "yogurt",
+   "strawberry",
+   "honey",
+   "oat"
+  ],
+  "steps": [
+   "Layer yogurt, berries and oats.",
+   "Drizzle honey."
+  ]
+ },
+ {
+  "name": "Oatmeal with Banana",
+  "minutes": 10,
+  "ingredients": [
+   "oat",
+   "milk",
+   "banana",
+   "honey",
+   "cinnamon"
+  ],
+  "steps": [
+   "Simmer oats in milk.",
+   "Top with banana and honey."
+  ]
+ },
+ {
+  "name": "Apple Crumble",
+  "minutes": 50,
+  "ingredients": [
+   "apple",
+   "flour",
+   "butter",
+   "sugar",
+   "oat",
+   "cinnamon"
+  ],
+  "steps": [
+   "Slice apples.",
+   "Rub butter into flour, sugar and oats.",
+   "Bake until golden."
+  ]
+ },
+ {
+  "name": "Banana Bread",
+  "minutes": 60,
+  "ingredients": [
+   "banana",
+   "flour",
+   "eggs",
+   "sugar",
+   "butter",
+   "baking soda"
+  ],
+  "steps": [
+   "Mash bananas.",
+   "Mix with batter.",
+   "Bake until set."
+  ]
+ },
+ {
+  "name": "Fruit Salad",
+  "minutes": 10,
+  "ingredients": [
+   "apple",
+   "banana",
+   "orange",
+   "grape",
+   "honey"
+  ],
+  "steps": [
+   "Chop fruit.",
+   "Toss with honey."
+  ]
+ },
+ {
+  "name": "Guacamole",
+  "minutes": 10,
+  "ingredients": [
+   "avocado",
+   "tomato",
+   "onion",
+   "lime",
+   "cilantro",
+   "salt"
+  ],
+  "steps": [
+   "Mash avocado.",
+   "Mix in tomato, onion, lime and cilantro."
+  ]
+ },
+ {
+  "name": "Salsa",
+  "minutes": 10,
+  "ingredients": [
+   "tomato",
+   "onion",
+   "cilantro",
+   "lime",
+   "chili",
+   "salt"
+  ],
+  "steps": [
+   "Chop everything.",
+   "Mix and rest."
+  ]
+ },
+ {
+  "name": "Tomato Soup",
+  "minutes": 30,
+  "ingredients": [
+   "tomato",
+   "onion",
+   "garlic",
+   "butter",
+   "cream",
+   "water"
+  ],
+  "steps": [
+   "Soften onion and garlic.",
+   "Simmer with tomato.",
+   "Blend and stir in cream."
+  ]
+ },
+ {
+  "name": "Tomato Rice",
+  "minutes": 25,
+  "ingredients": [
+   "rice",
+   "tomato",
+   "onion",
+   "garlic",
+   "oil",
+   "cumin"
+  ],
+  "steps": [
+   "Fry onion and garlic.",
+   "Add tomato and rice.",
+   "Cook with water."
+  ]
+ },
+ {
+  "name": "Bruschetta",
+  "minutes": 15,
+  "ingredients": [
+   "bread",
+   "tomato",
+   "garlic",
+   "basil",
+   "olive oil"
+  ],
+  "steps": [
+   "Toast bread.",
+   "Top with tomato, garlic and basil."
+  ]
+ },
+ {
+  "name": "Margherita Pizza",
+  "minutes": 30,
+  "ingredients": [
+   "flour",
+   "tomato",
+   "mozzarella",
+   "basil",
+   "olive oil",
+   "yeast"
+  ],
+  "steps": [
+   "Make and rest the dough.",
+   "Top with tomato and mozzarella.",
+   "Bake hot."
+  ]
+ },
+ {
+  "name": "Cheese Pizza Toast",
+  "minutes": 15,
+  "ingredients": [
+   "bread",
+   "tomato sauce",
+   "cheese",
+   "oregano"
+  ],
+  "steps": [
+   "Spread sauce on bread.",
+   "Top with cheese and oregano.",
+   "Bake."
+  ]
+ },
+ {
+  "name": "Vegetable Soup",
+  "minutes": 35,
+  "ingredients": [
+   "carrot",
+   "potato",
+   "onion",
+   "celery",
+   "tomato",
+   "garlic",
+   "water"
+  ],
+  "steps": [
+   "Chop vegetables.",
+   "Simmer in water until tender."
+  ]
+ },
+ {
+  "name": "Carrot Soup",
+  "minutes": 35,
+  "ingredients": [
+   "carrot",
+   "onion",
+   "garlic",
+   "butter",
+   "ginger",
+   "water"
+  ],
+  "steps": [
+   "Soften onion and garlic.",
+   "Simmer with carrot and ginger.",
+   "Blend."
+  ]
+ },
+ {
+  "name": "Pumpkin Soup",
+  "minutes": 40,
+  "ingredients": [
+   "pumpkin",
+   "onion",
+   "garlic",
+   "cream",
+   "butter",
+   "water"
+  ],
+  "steps": [
+   "Roast pumpkin.",
+   "Simmer with onion and garlic.",
+   "Blend with cream."
+  ]
+ },
+ {
+  "name": "Mushroom Soup",
+  "minutes": 30,
+  "ingredients": [
+   "mushroom",
+   "onion",
+   "garlic",
+   "cream",
+   "butter",
+   "water"
+  ],
+  "steps": [
+   "Brown mushrooms.",
+   "Simmer with onion and garlic.",
+   "Blend with cream."
+  ]
+ },
+ {
+  "name": "Broccoli Cheese Soup",
+  "minutes": 30,
+  "ingredients": [
+   "broccoli",
+   "cheese",
+   "onion",
+   "milk",
+   "butter",
+   "flour"
+  ],
+  "steps": [
+   "Soften onion.",
+   "Simmer broccoli in milk.",
+   "Stir in cheese."
+  ]
+ },
+ {
+  "name": "Cauliflower Cheese",
+  "minutes": 40,
+  "ingredients": [
+   "cauliflower",
+   "cheese",
+   "milk",
+   "butter",
+   "flour"
+  ],
+  "steps": [
+   "Boil cauliflower.",
+   "Make cheese sauce.",
+   "Bake until bubbly."
+  ]
+ },
+ {
+  "name": "Roasted Vegetables",
+  "minutes": 40,
+  "ingredients": [
+   "carrot",
+   "potato",
+   "onion",
+   "bell pepper",
+   "olive oil",
+   "thyme"
+  ],
+  "steps": [
+   "Chop vegetables.",
+   "Toss with oil and thyme.",
+   "Roast."
+  ]
+ },
+ {
+  "name": "Stir Fried Vegetables",
+  "minutes": 15,
+  "ingredients": [
+   "broccoli",
+   "carrot",
+   "bell pepper",
+   "garlic",
+   "soy sauce",
+   "oil"
+  ],
+  "steps": [
+   "Stir fry vegetables.",
+   "Finish with soy sauce."
+  ]
+ },
+ {
+  "name": "Garlic Mushrooms",
+  "minutes": 15,
+  "ingredients": [
+   "mushroom",
+   "garlic",
+   "butter",
+   "parsley",
+   "lemon"
+  ],
+  "steps": [
+   "Fry mushrooms in butter.",
+   "Add garlic and parsley.",
+   "Finish with lemon."
+  ]
+ },
+ {
+  "name": "Sauteed Spinach",
+  "minutes": 10,
+  "ingredients": [
+   "spinach",
+   "garlic",
+   "olive oil",
+   "lemon",
+   "salt"
+  ],
+  "steps": [
+   "Warm garlic in oil.",
+   "Wilt spinach.",
+   "Squeeze lemon."
+  ]
+ },
+ {
+  "name": "Creamed Spinach",
+  "minutes": 20,
+  "ingredients": [
+   "spinach",
+   "cream",
+   "garlic",
+   "butter",
+   "cheese"
+  ],
+  "steps": [
+   "Wilt spinach.",
+   "Simmer with cream and garlic.",
+   "Stir in cheese."
+  ]
+ },
+ {
+  "name": "Spinach Pasta",
+  "minutes": 20,
+  "ingredients": [
+   "pasta",
+   "spinach",
+   "garlic",
+   "cheese",
+   "olive oil"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Wilt spinach with garlic.",
+   "Toss with cheese."
+  ]
+ },
+ {
+  "name": "Zucchini Fritters",
+  "minutes": 25,
+  "ingredients": [
+   "zucchini",
+   "eggs",
+   "flour",
+   "cheese",
+   "oil"
+  ],
+  "steps": [
+   "Grate zucchini.",
+   "Mix with egg, flour and cheese.",
+   "Fry."
+  ]
+ },
+ {
+  "name": "Stuffed Bell Peppers",
+  "minutes": 50,
+  "ingredients": [
+   "bell pepper",
+   "rice",
+   "beef",
+   "onion",
+   "tomato",
+   "cheese"
+  ],
+  "steps": [
+   "Cook filling.",
+   "Stuff peppers.",
+   "Bake until tender."
+  ]
+ },
+ {
+  "name": "Eggplant Parmesan",
+  "minutes": 55,
+  "ingredients": [
+   "eggplant",
+   "tomato sauce",
+   "mozzarella",
+   "parmesan",
+   "flour",
+   "eggs"
+  ],
+  "steps": [
+   "Bread and fry eggplant.",
+   "Layer with sauce and cheese.",
+   "Bake."
+  ]
+ },
+ {
+  "name": "Baba Ganoush",
+  "minutes": 40,
+  "ingredients": [
+   "eggplant",
+   "tahini",
+   "garlic",
+   "lemon",
+   "olive oil"
+  ],
+  "steps": [
+   "Roast eggplant.",
+   "Blend with tahini, garlic and lemon."
+  ]
+ },
+ {
+  "name": "Ratatouille",
+  "minutes": 55,
+  "ingredients": [
+   "eggplant",
+   "zucchini",
+   "tomato",
+   "bell pepper",
+   "onion",
+   "garlic",
+   "olive oil"
+  ],
+  "steps": [
+   "Slice vegetables.",
+   "Stew in oil with garlic until soft."
+  ]
+ },
+ {
+  "name": "Corn Salad",
+  "minutes": 15,
+  "ingredients": [
+   "corn",
+   "tomato",
+   "onion",
+   "lime",
+   "cilantro",
+   "olive oil"
+  ],
+  "steps": [
+   "Mix corn, tomato and onion.",
+   "Dress with lime and oil."
+  ]
+ },
+ {
+  "name": "Fried Fish",
+  "minutes": 20,
+  "ingredients": [
+   "fish",
+   "flour",
+   "lemon",
+   "eggs",
+   "oil",
+   "salt"
+  ],
+  "steps": [
+   "Coat fish in egg and flour.",
+   "Fry until crisp.",
+   "Serve with lemon."
+  ]
+ },
+ {
+  "name": "Lemon Butter Fish",
+  "minutes": 20,
+  "ingredients": [
+   "fish",
+   "lemon",
+   "butter",
+   "garlic",
+   "parsley"
+  ],
+  "steps": [
+   "Pan fry fish in butter.",
+   "Add garlic and lemon."
+  ]
+ },
+ {
+  "name": "Garlic Shrimp",
+  "minutes": 15,
+  "ingredients": [
+   "shrimp",
+   "garlic",
+   "butter",
+   "lemon",
+   "parsley"
+  ],
+  "steps": [
+   "Saute garlic in butter.",
+   "Cook shrimp.",
+   "Finish with lemon."
+  ]
+ },
+ {
+  "name": "Shrimp Fried Rice",
+  "minutes": 20,
+  "ingredients": [
+   "shrimp",
+   "rice",
+   "eggs",
+   "pea",
+   "soy sauce",
+   "garlic",
+   "oil"
+  ],
+  "steps": [
+   "Scramble eggs.",
+   "Fry shrimp, garlic and rice.",
+   "Season with soy sauce."
+  ]
+ },
+ {
+  "name": "Shrimp Pasta",
+  "minutes": 25,
+  "ingredients": [
+   "shrimp",
+   "pasta",
+   "garlic",
+   "tomato",
+   "olive oil",
+   "parsley"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Saute garlic and shrimp.",
+   "Toss with tomato and parsley."
+  ]
+ },
+ {
+  "name": "Sausage Pasta",
+  "minutes": 25,
+  "ingredients": [
+   "sausage",
+   "pasta",
+   "tomato",
+   "onion",
+   "garlic",
+   "cheese"
+  ],
+  "steps": [
+   "Brown sausage.",
+   "Add onion and tomato.",
+   "Toss with pasta."
+  ]
+ },
+ {
+  "name": "Sausage and Potatoes",
+  "minutes": 40,
+  "ingredients": [
+   "sausage",
+   "potato",
+   "onion",
+   "olive oil",
+   "thyme"
+  ],
+  "steps": [
+   "Chop everything.",
+   "Roast with oil and thyme."
+  ]
+ },
+ {
+  "name": "Bacon and Eggs",
+  "minutes": 12,
+  "ingredients": [
+   "bacon",
+   "eggs",
+   "bread",
+   "butter"
+  ],
+  "steps": [
+   "Fry bacon.",
+   "Fry eggs.",
+   "Serve with toast."
+  ]
+ },
+ {
+  "name": "BLT Sandwich",
+  "minutes": 12,
+  "ingredients": [
+   "bacon",
+   "lettuce",
+   "tomato",
+   "bread",
+   "mayonnaise"
+  ],
+  "steps": [
+   "Crisp the bacon.",
+   "Layer with lettuce and tomato in bread."
+  ]
+ },
+ {
+  "name": "Ham and Cheese Sandwich",
+  "minutes": 8,
+  "ingredients": [
+   "ham",
+   "cheese",
+   "bread",
+   "butter",
+   "mustard"
+  ],
+  "steps": [
+   "Layer ham and cheese on buttered bread."
+  ]
+ },
+ {
+  "name": "Ham Fried Rice",
+  "minutes": 15,
+  "ingredients": [
+   "ham",
+   "rice",
+   "eggs",
+   "pea",
+   "soy sauce",
+   "oil"
+  ],
+  "steps": [
+   "Fry ham and peas.",
+   "Add rice and eggs.",
+   "Season."
+  ]
+ },
+ {
+  "name": "Turkey Wrap",
+  "minutes": 10,
+  "ingredients": [
+   "turkey",
+   "tortilla",
+   "lettuce",
+   "tomato",
+   "mayonnaise"
+  ],
+  "steps": [
+   "Fill tortilla with turkey and vegetables.",
+   "Roll."
+  ]
+ },
+ {
+  "name": "Pork Fried Noodles",
+  "minutes": 20,
+  "ingredients": [
+   "pork",
+   "noodles",
+   "cabbage",
+   "carrot",
+   "soy sauce",
+   "garlic",
+   "oil"
+  ],
+  "steps": [
+   "Stir fry pork.",
+   "Add noodles and vegetables.",
+   "Season."
+  ]
+ },
+ {
+  "name": "Vegetable Noodles",
+  "minutes": 15,
+  "ingredients": [
+   "noodles",
+   "carrot",
+   "cabbage",
+   "garlic",
+   "soy sauce",
+   "oil"
+  ],
+  "steps": [
+   "Boil noodles.",
+   "Stir fry vegetables.",
+   "Toss together."
+  ]
+ },
+ {
+  "name": "Tofu Stir Fry",
+  "minutes": 20,
+  "ingredients": [
+   "tofu",
+   "broccoli",
+   "carrot",
+   "garlic",
+   "soy sauce",
+   "ginger",
+   "oil"
+  ],
+  "steps": [
+   "Crisp tofu.",
+   "Add vegetables, garlic and ginger.",
+   "Finish with soy sauce."
+  ]
+ },
+ {
+  "name": "Scrambled Tofu",
+  "minutes": 15,
+  "ingredients": [
+   "tofu",
+   "onion",
+   "tomato",
+   "cumin",
+   "oil",
+   "salt"
+  ],
+  "steps": [
+   "Fry onion.",
+   "Crumble in tofu and tomato.",
+   "Season with cumin."
+  ]
+ },
+ {
+  "name": "Coconut Curry",
+  "minutes": 35,
+  "ingredients": [
+   "coconut milk",
+   "potato",
+   "onion",
+   "garlic",
+   "ginger",
+   "chili powder",
+   "oil"
+  ],
+  "steps": [
+   "Fry aromatics.",
+   "Add potato and coconut milk.",
+   "Simmer."
+  ]
+ },
+ {
+  "name": "Coconut Rice",
+  "minutes": 25,
+  "ingredients": [
+   "rice",
+   "coconut milk",
+   "salt",
+   "water",
+   "sugar"
+  ],
+  "steps": [
+   "Simmer rice in coconut milk and water."
+  ]
+ },
+ {
+  "name": "Peanut Butter Toast",
+  "minutes": 5,
+  "ingredients": [
+   "bread",
+   "peanut butter",
+   "banana",
+   "honey"
+  ],
+  "steps": [
+   "Toast bread.",
+   "Spread peanut butter.",
+   "Top with banana and honey."
+  ]
+ },
+ {
+  "name": "Honey Lemon Tea",
+  "minutes": 5,
+  "ingredients": [
+   "lemon",
+   "honey",
+   "ginger",
+   "water"
+  ],
+  "steps": [
+   "Steep ginger in hot water.",
+   "Add lemon and honey."
+  ]
+ },
+ {
+  "name": "Lemonade",
+  "minutes": 10,
+  "ingredients": [
+   "lemon",
+   "sugar",
+   "water"
+  ],
+  "steps": [
+   "Juice lemons.",
+   "Mix with sugar and cold water."
+  ]
+ },
+ {
+  "name": "Garlic Bread",
+  "minutes": 15,
+  "ingredients": [
+   "bread",
+   "garlic",
+   "butter",
+   "parsley"
+  ],
+  "steps": [
+   "Mix garlic and parsley into butter.",
+   "Spread on bread.",
+   "Bake."
+  ]
+ },
+ {
+  "name": "Onion Soup",
+  "minutes": 50,
+  "ingredients": [
+   "onion",
+   "butter",
+   "bread",
+   "cheese",
+   "water",
+   "thyme"
+  ],
+  "steps": [
+   "Slowly brown onions.",
+   "Add water and thyme.",
+   "Top with bread and cheese and grill."
+  ]
+ },
+ {
+  "name": "Mac and Cheese",
+  "minutes": 30,
+  "ingredients": [
+   "pasta",
+   "cheese",
+   "milk",
+   "butter",
+   "flour"
+  ],
+  "steps": [
+   "Boil pasta.",
+   "Make cheese sauce with butter, flour and milk.",
+   "Combine."
+  ]
+ },
+ {
+  "name": "Cheese Omelette",
+  "minutes": 8,
+  "ingredients": [
+   "eggs",
+   "cheese",
+   "butter",
+   "salt"
+  ],
+  "steps": [
+   "Beat eggs.",
+   "Cook in butter.",
+   "Add cheese and fold."
+  ]
+ },
+ {
+  "name": "Cabbage Stir Fry",
+  "minutes": 15,
+  "ingredients": [
+   "cabbage",
+   "carrot",
+   "garlic",
+   "soy sauce",
+   "oil",
+   "ginger"
+  ],
+  "steps": [
+   "Stir fry cabbage and carrot.",
+   "Add garlic, ginger and soy sauce."
+  ]
+ },
+ {
+  "name": "Cabbage Soup",
+  "minutes": 35,
+  "ingredients": [
+   "cabbage",
+   "carrot",
+   "onion",
+   "tomato",
+   "garlic",
+   "water"
+  ],
+  "steps": [
+   "Soften vegetables.",
+   "Simmer in water with tomato."
+  ]
+ },
+ {
+  "name": "Kale and Potato Soup",
+  "minutes": 35,
+  "ingredients": [
+   "kale",
+   "potato",
+   "onion",
+   "garlic",
+   "olive oil",
+   "water"
+  ],
+  "steps": [
+   "Soften onion and garlic.",
+   "Simmer with potato.",
+   "Add kale."
+  ]
+ },
+ {
+  "name": "Sweet Potato Fries",
+  "minutes": 35,
+  "ingredients": [
+   "sweet potato",
+   "olive oil",
+   "paprika",
+   "salt"
+  ],
+  "steps": [
+   "Cut into sticks.",
+   "Toss with oil and paprika.",
+   "Roast."
+  ]
+ },
+ {
+  "name": "Mashed Sweet Potato",
+  "minutes": 30,
+  "ingredients": [
+   "sweet potato",
+   "butter",
+   "milk",
+   "cinnamon"
+  ],
+  "steps": [
+   "Boil sweet potatoes.",
+   "Mash with butter and milk."
+  ]
+ },
+ {
+  "name": "Green Bean Saute",
+  "minutes": 15,
+  "ingredients": [
+   "green bean",
+   "garlic",
+   "butter",
+   "lemon",
+   "salt"
+  ],
+  "steps": [
+   "Blanch beans.",
+   "Saute with garlic and butter.",
+   "Add lemon."
+  ]
+ },
+ {
+  "name": "Peas Pulao",
+  "minutes": 30,
+  "ingredients": [
+   "rice",
+   "pea",
+   "onion",
+   "cumin",
+   "ginger",
+   "oil",
+   "water"
+  ],
+  "steps": [
+   "Fry onion and cumin.",
+   "Add rice, peas and water.",
+   "Cook until fluffy."
+  ]
+ },
+ {
+  "name": "Celery Tuna Boats",
+  "minutes": 10,
+  "ingredients": [
+   "celery",
+   "tuna",
+   "mayonnaise",
+   "lemon"
+  ],
+  "steps": [
+   "Mix tuna with mayonnaise and lemon.",
+   "Fill celery sticks."
+  ]
+ },
+ {
+  "name": "Pear and Cheese Plate",
+  "minutes": 5,
+  "ingredients": [
+   "pear",
+   "cheese",
+   "honey",
+   "bread"
+  ],
+  "steps": [
+   "Slice pear.",
+   "Serve with cheese, bread and honey."
+  ]
+ },
+ {
+  "name": "Orange Chicken",
+  "minutes": 35,
+  "ingredients": [
+   "chicken",
+   "orange",
+   "soy sauce",
+   "garlic",
+   "ginger",
+   "oil"
+  ],
+  "steps": [
+   "Brown chicken.",
+   "Simmer with orange juice, soy sauce, garlic and ginger."
+  ]
+ },
+ {
+  "name": "Mango Lassi",
+  "minutes": 5,
+  "ingredients": [
+   "mango",
+   "yogurt",
+   "milk",
+   "sugar"
+  ],
+  "steps": [
+   "Blend until smooth."
+  ]
+ },
+ {
+  "name": "Shallot Pasta",
+  "minutes": 20,
+  "ingredients": [
+   "pasta",
+   "shallot",
+   "butter",
+   "parsley",
+   "cream"
+  ],
+  "steps": [
+   "Soften shallot in butter.",
+   "Add cream.",
+   "Toss with pasta and parsley."
+  ]
+ },
+ {
+  "name": "Pesto Pasta",
+  "minutes": 15,
+  "ingredients": [
+   "pasta",
+   "basil",
+   "garlic",
+   "parmesan",
+   "olive oil"
+  ],
+  "steps": [
+   "Blend basil, garlic, parmesan and oil.",
+   "Toss with hot pasta."
+  ]
+ },
+ {
+  "name": "Green Onion Egg Pancake",
+  "minutes": 15,
+  "ingredients": [
+   "eggs",
+   "green onion",
+   "flour",
+   "oil",
+   "salt",
+   "water"
+  ],
+  "steps": [
+   "Mix batter.",
+   "Fry thin pancakes with green onion."
+  ]
+ }
+]
