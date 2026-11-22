@@ -1,0 +1,195 @@
+scenario_id,recipe,relevance,judge1,judge2,judge3,have,recipe_ingredients
+1,10-Minute Marinara Sauce,,0,1,0,egg; onion; tomato,garlic; olive oil; onion; pepper; salt; sugar; tomato
+1,Beer And Tomato Hush Puppies,,0,0,0,egg; onion; tomato,beer; egg; green bell pepper; onion; salt; self rising flour; tomato; worcestershire sauce
+1,Chef Flower'S Cracked Wheat Pilaf  - Kibrisli Bulgur Pilavi,,1,1,1,egg; onion; tomato,bulgur; olive oil; onion; tomato
+1,Corn Salad,,1,2,1,egg; onion; tomato,olive oil; onion; red wine vinegar; tomato
+1,Easy Salsa,,2,2,2,egg; onion; tomato,onion; salt; tomato
+1,Fresh Tomato And Feta Frittata,,1,1,1,egg; onion; tomato,egg; feta cheese; tomato
+1,Healthy Alternative Tuna Sandwich (No Mayo!),,0,1,0,egg; onion; tomato,albacore tuna in water; basil; egg; lettuce; olive oil; onion; pepper; salt; tomato
+1,Okra Fritters,,0,1,0,egg; onion; tomato,cornmeal; curry powder; egg; flour; okra; onion; pepper; salt; tomato
+1,"Sunday Morning Slider,  (The Breakfast Club)",,0,0,0,egg; onion; tomato,american cheese; bacon; egg; ham; hamburger; lettuce; mayonnaise; onion; sharp cheddar cheese; swiss cheese; tomato
+1,Too-Yummy-To-Share Scramble,,0,1,0,egg; onion; tomato,basil; cheese; egg; onion; tomato; water
+2,Barb'S Feta Cheese Scramble,,0,0,0,cheese; egg; spinach,cheese; cherry tomato; egg; feta cheese; half half; monterey jack cheese; olive oil; onion; spinach; zucchini
+2,Breakfast On A Bun,,1,1,1,cheese; egg; spinach,cheese; deli ham; egg
+2,Easy Crustless Spinach Savoury Tart,,0,1,0,cheese; egg; spinach,cheese; egg; evaporated milk; flour; mustard powder; onion; pepper; salt; spinach
+2,Ham And Cheese Breakfast Egg-Tacos,,0,0,0,cheese; egg; spinach,bell pepper; cheese; deli ham; egg; milk; onion; seasoning salt; spinach
+2,Leftover Stuffing Balls,,1,1,1,cheese; egg; spinach,cheese; egg; prepared stuffing
+2,Omelet In A Mug,,1,1,1,cheese; egg; spinach,cheese; egg; milk
+2,Sausage &Amp; Spinach Bake,,0,0,0,cheese; egg; spinach,bulk pork sausage; celery; cheese; egg; onion; parmesan cheese; salt; spinach
+2,Scrambled Spinach Omelet,,1,1,1,cheese; egg; spinach,cheese; egg; low fat cottage cheese; olive oil; spinach
+2,Sissy'S Egg In A Boat,,0,2,0,cheese; egg; spinach,butter; cheese; egg; pepper; salt
+3,Benihana Hibachi Chicken Rice,,0,0,0,carrot; egg; rice,butter; carrot; chicken breast; egg; onion; pepper; rice; salt; soy sauce
+3,Copycat &Quot; Bill'S &Quot; Eggs,,0,2,0,carrot; egg; rice,butter; egg; salt
+3,Health-Ier Pork Fried Rice,,0,0,0,carrot; egg; rice,carrot; egg; ginger; green bell pepper; green onion; green pea; olive oil; rice
+3,Japanese Ghoulash,,1,1,1,carrot; egg; rice,beef; carrot; egg; rice
+3,Planet Burgers,,0,0,0,carrot; egg; rice,carrot; chickpea; egg; onion; parsley; rice; soy sauce; sunflower seed; thyme
+3,Pots De Creme (Non-Dairy),,0,1,0,carrot; egg; rice,egg; soymilk; sugar
+3,Rice Soup With Egg (Greek),,1,1,1,carrot; egg; rice,egg; lemon juice; rice
+3,Simple Ham (Or Pork) Fried Rice W/Sesame Oil No Wok Needed,,0,0,0,carrot; egg; rice,carrot; egg; green onion; green pea; ham; kosher salt; pork; rice; sesame seed; sweet onion; water chestnut
+3,Sunshine Spice Cake,,1,2,2,carrot; egg; rice,carrot; egg; mixed spice; water
+4,Angel Shrimp,,0,0,0,garlic; pasta; tomato,angel hair pasta; garlic; mint; olive oil; parsley; pasta; pepper; plum tomato; salt; shrimp; tomato
+4,Bread With Olive Oil,,1,2,2,garlic; pasta; tomato,garlic; olive oil; salt; tomato
+4,Easy Parmesan Pasta With Asparagus,,0,0,0,garlic; pasta; tomato,asparagus; butter; garlic; olive oil; parmesan cheese; parsley; pasta; red pepper flake; tomato
+4,Pan Con Tomate,,1,2,1,garlic; pasta; tomato,garlic; olive oil; sea salt; tomato
+4,Pepperoncini  (Oil And Garlic Spaghetti),,0,2,1,garlic; pasta; tomato,garlic; olive oil; pasta; salt; water
+4,Pizza Sauce,,2,2,2,garlic; pasta; tomato,garlic; olive oil; tomato
+4,So-Easy Pasta With Fresh Herbs And Cold Tomato,,0,0,0,garlic; pasta; tomato,basil; cheese; garlic; olive oil; oregano; parmesan cheese; parsley; pasta; tomato
+4,Soup Mix In A Jar,,0,0,0,garlic; pasta; tomato,bay leaf; beef; beef bouillon granule; dry lentil; garlic; long grain white rice; pasta; pearl barley; pepper; tomato; water
+4,Super Quick Pasta Al Pomodoro,,0,1,1,garlic; pasta; tomato,basil leaf; garlic; olive oil; pasta; pepper; salt; tomato
+5,Baked Macaroni And Cheese,,1,1,1,butter; mushroom; pasta,butter; milk; pasta; pepper
+5,Chicken Tetrazzini,,0,0,0,butter; mushroom; pasta,broth; butter; flour; mushroom; nutmeg; parmesan cheese; pasta; pepper; salt; sherry wine; white wine
+5,Clean Out The Fridge Pasta Sauce,,0,0,0,butter; mushroom; pasta,butter; mushroom; onion; parmesan cheese; parsley; pasta
+5,Macaroni With Cheese - The Russian Way,,1,1,1,butter; mushroom; pasta,butter; cheese; pasta; salt
+5,Meat &Amp; Veggie Spaghetti Bolognese,,0,0,0,butter; mushroom; pasta,beef; butter; carrot; celery; flour; garlic; mushroom; onion; pasta; tomato paste
+5,Nif'S Spaghetti With Mushrooms And Shrimp For Two,,0,0,0,butter; mushroom; pasta,butter; dry white wine; flour; garlic; low fat milk; mushroom; parmesan cheese; pasta; pepper; seasoning salt
+5,Noodles And Tomatoes,,0,1,1,butter; mushroom; pasta,butter; pasta; pepper; salt; tomato
+5,Pizza Pasta Pie,,0,0,0,butter; mushroom; pasta,basil; butter; carrot; egg; garlic powder; mozzarella; mushroom; oregano; parmesan cheese; pasta; ricotta cheese; spinach
+5,Stuffed Mushroom Caps,,1,1,1,butter; mushroom; pasta,butter; mushroom; parmesan cheese
+5,Stuffed Mushrooms,,0,1,1,butter; mushroom; pasta,butter; mushroom; onion; pepper; salt
+6,Baked Chicken And Onions,,0,2,1,chicken; onion; rice,chicken; olive oil; onion; paprika; pepper; salt
+6,Cheese-N-Chicken Casserole,,1,1,1,chicken; onion; rice,celery; chicken; onion; rice; velveeta cheese
+6,Coca-Cola Bbq Chicken,,1,1,1,chicken; onion; rice,chicken; ketchup; onion
+6,Coconut Bean Soup,,0,0,0,chicken; onion; rice,butter; chicken; chili; cilantro; coconut milk; curry powder; garlic; onion; red kidney bean; rice; tomato; water
+6,Country Style Smothered Chicken,,0,0,0,chicken; onion; rice,bacon; basil leaf; chicken; garlic; onion; rice
+6,Egyptian Rice For Fish,,1,2,1,chicken; onion; rice,onion; rice; salt; water
+6,Lentil Poridge (Mjaddara),,0,2,1,chicken; onion; rice,cumin; olive oil; onion; rice; salt; water
+6,Rice And Beef Pilaf,,0,1,0,chicken; onion; rice,beef; onion; pepper; rice; salt
+6,Stewed Belizean Chicken,,1,1,1,chicken; onion; rice,bacon; chicken; onion; philadelphia cream cheese; rice
+6,Stuffed Capsicums Or Red Bell Peppers,,0,0,0,chicken; onion; rice,butter; chicken; flour; garlic; herb; light sour cream; onion; red capsicum; rice
+7,Beer Can Grilled Chicken,,0,0,0,chicken; garlic; lemon,beer; chicken; garlic; lemon; lemon rind; paprika; pepper; red pepper flake; rosemary; salt; thyme
+7,Best Ever Roasted Chicken,,0,1,0,chicken; garlic; lemon,chicken; garlic; lemon; olive oil; onion; pepper; poultry seasoning; rosemary; salt
+7,Chicken With 40 Garlic Cloves,,0,1,1,chicken; garlic; lemon,butter; chicken; garlic; lemon; olive oil; rosemary; salt; thyme; white wine
+7,Gremolata,,1,1,1,chicken; garlic; lemon,garlic; lemon; parsley
+7,Grilled Lemon Garlic Zucchini,,1,1,1,chicken; garlic; lemon,garlic; lemon; olive oil; zucchini
+7,Lemon Garlic Roast Chicken,,1,1,1,chicken; garlic; lemon,chicken; garlic; herb; lemon; lemon juice
+7,Lemonade Chicken,,1,1,1,chicken; garlic; lemon,chervil; chicken; garlic
+7,Roasted Chicken With Potatoes And Olives,,0,0,0,chicken; garlic; lemon,bulb garlic; chicken; garlic; kosher salt; lemon; olive oil; onion; rosemary; thyme; water
+7,Spinach Burgers,,1,1,1,chicken; garlic; lemon,chicken; garlic; spinach
+7,Steamed Broccoli Italian Style,,1,1,1,chicken; garlic; lemon,broccoli; garlic; lemon; olive oil
+8,Best Vegetable Chowder,,0,0,0,butter; milk; potato,butter; carrot; celery; flour; milk; mushroom; onion; potato; salt
+8,Cheesy Ranch Potatoes,,1,1,1,butter; milk; potato,butter; cheese; milk; potato
+8,Cheesy Whipped Potatoes,,0,1,1,butter; milk; potato,butter; milk; paprika; pepper; potato; salt; sharp cheddar cheese
+8,Danish Sugar Browned Potatoes Brunede Kartofler,,2,2,1,butter; milk; potato,butter; potato; sugar
+8,Instant Pot Mashed Potatoes,,1,1,1,butter; milk; potato,butter; garlic; green onion; milk; potato
+8,Mashed Potatos,,0,1,1,butter; milk; potato,butter; milk; parsley; pepper; potato; salt
+8,Mom'S Mashed Potatoes,,1,2,1,butter; milk; potato,butter; milk; pepper; potato; salt
+8,Norwegian Scrambled Eggs With Smoked Salmon And Potatoes,,0,0,0,butter; milk; potato,butter; dill; egg; milk; onion; parsley; potato; smoked salmon; white pepper
+8,Sweetened Condensed Milk - Substitute,,0,2,1,butter; milk; potato,butter; milk; salt; sugar; water
+9,Bacon And Onion Pie,,0,1,1,cheese; onion; potato,bacon; butter; cheese; onion; potato; sugar; tomato
+9,Cheddar And Corn Soup,,0,0,0,cheese; onion; potato,butter; cheese; chicken broth; corn; half half; onion; pepper; potato; thyme
+9,Chicken Dinner,,2,2,2,cheese; onion; potato,cheese; onion; pepper
+9,"Easy Creamy, Cheesy Potato Soup W/ Crisp Bacon",,0,0,0,cheese; onion; potato,bacon; cheese; garlic; milk; onion; parsley; pepper; potato; salt; seasoning salt; sour cream; water
+9,Eggs &Amp; Taters,,0,1,0,cheese; onion; potato,butter; cheese; egg beater egg substitute; garlic powder; onion; parsley; pepper; potato; salt
+9,Fried Potatoes,,2,2,2,cheese; onion; potato,butter; onion; potato
+9,Genuine Frito Pie,,2,2,2,cheese; onion; potato,cheese; onion; prepared yellow mustard
+9,Llapingachos - Potato Cakes Filled With Cheese,,2,2,2,cheese; onion; potato,cheese; potato; salt
+9,Microwaved Scalloped Potatoes And Carrots,,0,0,0,cheese; onion; potato,butter; carrot; cheese; flour; milk; onion; parmesan cheese; potato
+9,Northumberland Pan Haggerty - Vegetarian Cheese And Potato Bake,,2,2,2,cheese; onion; potato,butter; cheese; onion; potato
+10,Bama'S Quick Pancakes,,1,2,1,brandy; egg; milk,egg; milk; self rising flour; sugar
+10,Cr&Egrave;Me De Brie Treasure Chest,,0,0,0,brandy; egg; milk,bay scallop; brandy; egg; green onion; milk; puff pastry; shrimp
+10,Dallas Petroleum Club Eggnog... Super Leaded,,0,0,0,brandy; egg; milk,bourbon; brandy; cream; dark rum; egg; half half cream; milk; sugar; vanilla
+10,Easy Basic Crepes,,1,2,1,brandy; egg; milk,egg; flour; milk; salt
+10,Homemade Eggnog,,0,1,1,brandy; egg; milk,brandy; egg; honey; milk; nutmeg; sugar; vanilla
+10,Hot Apple Eggnog,,0,1,0,brandy; egg; milk,brandy; cinnamon; egg; half half; milk; salt; sugar
+10,Omelet In A Mug,,1,1,1,brandy; egg; milk,cheese; egg; milk
+10,Rich Eggnog,,0,1,1,brandy; egg; milk,brandy; egg; milk; nutmeg; powdered sugar; rum; sugar
+10,Sunshine Muffins,,2,2,2,brandy; egg; milk,egg; milk; water
+10,Virginia Plantation Eggnog,,1,1,1,brandy; egg; milk,brandy; dark rum; egg; milk; sugar
+11,&Quot;Oat-Aroni&Quot; And Cheese,,1,1,1,banana; oat,american cheese; oat; water
+11,1-1-1 Berry Banana Sorbet,,1,1,1,banana; oat,banana; milk; raspberry
+11,Cheesecake Bites,,0,0,0,banana; oat,banana; graham cracker; light cream cheese; strawberry
+11,Fruit Smoothie,,0,0,0,banana; oat,banana; milk; strawberry; sugar; vanilla extract
+11,Hearty Banana Oat Flapjacks,,0,0,0,banana; oat,baking powder; banana; cinnamon; egg; flour; nonfat milk; oat; pecan; salt; sugar; walnut
+11,Kiwi  Banana Shake,,1,1,1,banana; oat,banana; kiwi; sugar
+11,Orangenana Smoothies,,1,1,1,banana; oat,banana; pure vanilla extract; sugar
+11,Peanut Butter And Banana Pupcakes (Dog Treats),,0,1,1,banana; oat,baking powder; banana; egg; oat; peanut butter; water
+11,Shortcake With Strawberries And Banana,,1,1,1,banana; oat,banana; strawberry; sugar
+11,So Easy So Good Peaches &Amp; Bananas,,1,1,1,banana; oat,banana; miniature marshmallow; sugar
+12,Balsamic Vinegarette,,0,2,1,cucumber; garlic; yogurt,apple cider vinegar; garlic; olive oil; pepper
+12,Black Pepper Vinaigrette,,0,2,2,cucumber; garlic; yogurt,garlic; olive oil; pepper; red wine vinegar; salt; sugar
+12,Chilled Cucumber Garlic Soup,,0,0,0,cucumber; garlic; yogurt,cucumber; dill; english cucumber; garlic; lemon juice; milk; mint; olive oil; white wine vinegar; yogurt
+12,Creamy Feta Dressing,,0,0,0,cucumber; garlic; yogurt,evaporated milk; feta cheese; garlic; garlic powder; mayonnaise; oregano; pepper; salt; water; yogurt
+12,Cucumber Yoghurt Raita,,0,0,0,cucumber; garlic; yogurt,cucumber; cumin seed; garlic; ginger; green onion; lemon juice; mint; yogurt
+12,Dads Dressing,,0,2,0,cucumber; garlic; yogurt,dijon mustard; garlic; sugar
+12,Flavored Butter: Chili And Garlic Butter,,0,2,1,cucumber; garlic; yogurt,butter; garlic; salt
+12,Honey Garlic Balsamic Vinaigrette,,0,1,1,cucumber; garlic; yogurt,garlic; honey; olive oil; salt
+12,Stuffed Zucchini,,0,0,0,cucumber; garlic; yogurt,black olive; butter; cucumber; dill weed; garlic; garlic powder; lemon juice; mushroom; sesame seed; tomato; yogurt; zucchini
+12,Vancouver Greek Restaurant Tzatziki,,1,1,1,cucumber; garlic; yogurt,cucumber; dill; garlic; sour cream; yogurt
+13,Balsamic Marinated Flank Steak-Low Carb,,0,1,0,carrot; lentil; onion,garlic; olive oil; onion; pepper; salt
+13,Carrot Fudge,,0,1,1,carrot; lentil; onion,carrot; sugar; sweetened condensed milk; water
+13,Easy Salsa,,0,1,1,carrot; lentil; onion,onion; salt; tomato
+13,Kielbasa And Collards,,1,1,1,carrot; lentil; onion,carrot; kielbasa; onion; pepper
+13,Lentil Soup,,0,0,0,carrot; lentil; onion,carrot; celery rib; lentil; olive oil; onion; pepper; salt; swiss chard; tomato
+13,Plain Lentil Soup (Vegan...And Low Fat Too!),,0,1,0,carrot; lentil; onion,bay leaf; carrot; cayenne pepper; celery; lentil; onion; water
+13,Spiced Lentils And Rice,,0,0,0,carrot; lentil; onion,apple; carrot; cinnamon; cumin; curry powder; garlic; green onion; lentil; onion; rice; salt; yogurt
+13,Sweet Potato Soup To Comfort Your Soul,,0,2,0,carrot; lentil; onion,carrot; chicken bouillon powder; onion; salt; water
+13,Vegetable Lentil Soup,,0,0,0,carrot; lentil; onion,carrot; celery; cumin; green bean; lentil; onion; pearl barley; potato; red bell pepper; tomato; vegetable broth; zucchini
+13,Veggie Burgers Ii,,0,0,0,carrot; lentil; onion,carrot; garlic; lentil; olive oil; onion; parsley; pepper; pumpkin; salt; sesame seed; zucchini
+14,Breakfast Burrito (Like Mc Donald'S!),,1,1,1,cheese; kidney bean; tortilla,bacon bit; cheese; egg; tortilla
+14,"Cheesy, Chunky Bean Dip",,0,1,0,cheese; kidney bean; tortilla,cheese; chili; water
+14,Crab And Avocado Quesadilla,,0,1,1,cheese; kidney bean; tortilla,avocado; cheese; chili powder; green onion; nutmeg; pepper; salt; tortilla
+14,Deep Fried Cheese,,0,1,2,cheese; kidney bean; tortilla,cheese; flour; water
+14,Ham &Amp; Cheese Ramen Noodles ^_^ Cheap Budget Meal,,0,1,1,cheese; kidney bean; tortilla,cheese; ham; water
+14,Macaroni And Cheese Soup,,0,1,1,cheese; kidney bean; tortilla,cheese; milk; pepper; salt; water
+14,Potato Tortillas,,1,1,1,cheese; kidney bean; tortilla,cheese; potato; tortilla
+14,Ranch Tuna Stuffed Tomatoes,,0,0,0,cheese; kidney bean; tortilla,cheese; corn; green onion; kidney bean; solid white tuna; tomato
+14,Taco Egg Cups,,0,0,0,cheese; kidney bean; tortilla,cheese; egg; green onion; salsa; tortilla
+14,Tuna Quesadillas,,0,0,0,cheese; kidney bean; tortilla,cheese; green bell pepper; green onion; salsa; tortilla; tuna
+15,Balsamic Marinated Flank Steak-Low Carb,,0,1,0,bell pepper; carrot; onion,garlic; olive oil; onion; pepper; salt
+15,Beef &Amp; Vegetable Burgers,,0,0,0,bell pepper; carrot; onion,alfalfa sprout; bean sprout; beef; bell pepper; carrot; celery; onion; pepper; salt; tomato
+15,Easy Chicken And Dumplings,,0,0,0,bell pepper; carrot; onion,bell pepper; butter; carrot; celery; chicken broth; cream; flour; low sodium chicken broth; onion; poultry seasoning
+15,Grandmother'S Stuffing Base,,0,1,1,bell pepper; carrot; onion,bell pepper; butter; carrot; celery rib; onion; sage leaf
+15,Kielbasa And Collards,,1,1,1,bell pepper; carrot; onion,carrot; kielbasa; onion; pepper
+15,Mom'S Mezetta,,1,2,1,bell pepper; carrot; onion,bell pepper; chili powder; onion; water
+15,Roast Chicken Drumsticks And Vegetables,,0,0,0,bell pepper; carrot; onion,bell pepper; bulb garlic; carrot; chicken drumstick; lemon; onion; oregano; oregano leaf; pepper; red wine vinegar; sweet potato; tomato
+15,Sarah'S Fried Rice,,0,0,0,bell pepper; carrot; onion,bell pepper; carrot; chicken breast; corn; egg; olive oil; onion; rice; shrimp
+15,Sweet Potato Soup To Comfort Your Soul,,0,2,2,bell pepper; carrot; onion,carrot; chicken bouillon powder; onion; salt; water
+15,Teryaki Kabobs,,1,1,1,bell pepper; carrot; onion,bell pepper; onion; pineapple
+16,Bean And Frito Salad,,1,1,1,brandy; cheese; tomato,cheese; green onion; lettuce; tomato
+16,Bruschetta-Style Grilled Cheese Sandwich,,1,1,1,brandy; cheese; tomato,basil; cheese; tomato
+16,California Rollwich For Kids,,0,0,0,brandy; cheese; tomato,avocado; carrot; cheese; flour tortilla; green pepper; ham; lemon juice; lime juice; mayonnaise; romaine lettuce; tomato; turkey
+16,Classic Hero Sandwich,,0,0,0,brandy; cheese; tomato,cheese; green pepper; lettuce; miracle whip; smoked ham; tomato
+16,Creamy Baked Tomatoes,,1,1,1,brandy; cheese; tomato,basil; cheese; tomato
+16,Famous Queso Dip: Green Goodness,,1,1,1,brandy; cheese; tomato,cheese; cilantro; tomato
+16,Great Grilled Cheese,,0,0,0,brandy; cheese; tomato,american cheese; butter; cheese; honey; tomato; velveeta cheese
+16,Green Salad With Pepperoni And Cheese,,1,1,1,brandy; cheese; tomato,bacon bit; cheese; tomato
+16,Loaded Tortillas,,0,0,0,brandy; cheese; tomato,bacon bit; cheese; flour tortilla; green onion; mozzarella; salsa; tomato
+16,Skillet Chicken Ranch Tacos,,1,1,1,brandy; cheese; tomato,cheese; lettuce; tomato
+17,Best Ever French Toast,,0,1,1,brandy; butter; egg; milk,butter; cinnamon; egg; ginger; milk; sugar; vanilla extract
+17,Brandy Butter,,2,2,2,brandy; butter; egg; milk,brandy; butter; sugar
+17,Campbelled Eggs,,2,2,2,brandy; butter; egg; milk,butter; egg; pepper
+17,Chaux Clafouti De Fraise De Brandied,,0,0,0,brandy; butter; egg; milk,brandy; butter; confectioner sugar; cornstarch; egg; flour; key lime; milk; pure vanilla extract; salt; strawberry; sugar
+17,Copycat &Quot; Bill'S &Quot; Eggs,,2,2,2,brandy; butter; egg; milk,butter; egg; salt
+17,Diplomatic Pudding,,0,0,0,brandy; butter; egg; milk,brandy; butter; cinnamon; egg; kahlua; milk; raisin; salt; sugar; vanilla; water
+17,Eggnog Bread Pudding,,0,0,0,brandy; butter; egg; milk,bourbon; brandy; butter; dark rum; egg; half half; milk; nutmeg; seedless raisin; sugar
+17,Scrambled Eggs With Smoked Salmon,,0,0,0,brandy; butter; egg; milk,butter; cilantro; egg; green onion; milk; parsley; smoked salmon; sour cream; white pepper
+17,Sweetened Condensed Milk - Substitute,,0,2,2,brandy; butter; egg; milk,butter; milk; salt; sugar; water
+17,Toddler Egg Toast,,2,2,2,brandy; butter; egg; milk,butter; egg
+18,10-Minute Marinara Sauce,,0,2,2,carrot; garlic; onion; tomato,garlic; olive oil; onion; pepper; salt; sugar; tomato
+18,Balsamic Marinated Flank Steak-Low Carb,,0,2,2,carrot; garlic; onion; tomato,garlic; olive oil; onion; pepper; salt
+18,Bread With Olive Oil,,1,2,2,carrot; garlic; onion; tomato,garlic; olive oil; salt; tomato
+18,Easy Salsa,,2,2,2,carrot; garlic; onion; tomato,onion; salt; tomato
+18,Herb Garlic Beans,,0,0,0,carrot; garlic; onion; tomato,black bean; carrot; celery; garlic; olive oil; onion; pinto bean; red kidney bean; thyme; tomato; white wine
+18,Italian Sausage And Pasta Soup,,0,0,0,carrot; garlic; onion; tomato,basil; cannellini bean; carrot; chicken broth; garlic; italian sausage; mild italian sausage; onion; parmesan cheese; shell pasta; tomato
+18,Jenny-Approved Hamburger-Spinach-Tomato-Pasta One Dish Meal,,0,0,0,carrot; garlic; onion; tomato,beef; carrot; garlic; onion; pasta; spinach; tomato
+18,Pizza Sauce,,2,2,2,carrot; garlic; onion; tomato,garlic; olive oil; tomato
+18,Salmon Salad Farfalle,,0,0,0,carrot; garlic; onion; tomato,basil; black olive; carrot; farfalle pasta; garlic; olive oil; onion; oregano; parsley; pepper; tomato
+18,Tasty Low Cal - Green Lentils &Amp; Vegetarian Sausages!,,0,0,0,carrot; garlic; onion; tomato,carrot; celery; garlic; green lentil; herb; olive oil; onion; sugar; tomato
+19,Balsamic Vinegarette,,0,2,2,carrot; chicken; garlic; rice,apple cider vinegar; garlic; olive oil; pepper
+19,Broiled Balsamic Chicken Slices,,1,1,1,carrot; chicken; garlic; rice,garlic; rice; soy sauce
+19,Chicken And Cheese,,1,1,1,carrot; chicken; garlic; rice,carrot; chicken; pea
+19,Chicken Of The Cccccccccccs Salad,,0,0,0,carrot; chicken; garlic; rice,carrot; cashew; cayenne pepper; celery leaf; chicken; chinese five spice powder; chive; curry; garlic; olive oil; oyster sauce; water chestnut
+19,Chicken Pelau,,0,0,0,carrot; chicken; garlic; rice,brown sugar; carrot; chicken; coconut milk; garlic; lime; pepper; raisin; rice; salt; water; worcestershire sauce
+19,Cinnamon Curry Rice,,0,0,0,carrot; chicken; garlic; rice,apple; butter; carrot; cinnamon; curry powder; flour; garlic; onion; potato; rice; water
+19,Coconut Bean Soup,,0,0,0,carrot; chicken; garlic; rice,butter; chicken; chili; cilantro; coconut milk; curry powder; garlic; onion; red kidney bean; rice; tomato; water
+19,Lemonade Chicken,,1,1,1,carrot; chicken; garlic; rice,chervil; chicken; garlic
+19,Spinach Burgers,,1,1,1,carrot; chicken; garlic; rice,chicken; garlic; spinach
+19,Thai Rice Soup (Kao Tome Gai),,0,0,0,carrot; chicken; garlic; rice,chicken; cilantro leaf; fish sauce; garlic; ginger; green onion; pepper; rice; turkey
+20,1-1-1 Berry Banana Sorbet,,1,1,1,banana; milk; oat; yogurt,banana; milk; raspberry
+20,Apple Banana Green Smoothie,,1,1,1,banana; milk; oat; yogurt,apple; banana; milk; spinach; yogurt
+20,Banana Milk,,1,1,1,banana; milk; oat; yogurt,banana; milk; vanilla; water
+20,Banana Milkshake With Ice Cream!,,1,1,1,banana; milk; oat; yogurt,banana; ice cream; milk; sugar
+20,Blackcat13 Mango Smoothie,,1,1,1,banana; milk; oat; yogurt,banana; mango; milk; yogurt
+20,Chocolate Peanut Butter Banana Milkshake,,1,1,1,banana; milk; oat; yogurt,banana; milk; peanut butter; vanilla ice cream; yogurt
+20,Healthy Frozen Fruit Smoothies,,1,1,1,banana; milk; oat; yogurt,banana; honey; milk; strawberry; yogurt
+20,Homemade Scrub To Get Rid Of Dead Skin,,0,1,1,banana; milk; oat; yogurt,lime juice; milk; oat; olive oil; water; yogurt
