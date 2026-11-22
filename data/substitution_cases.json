@@ -1,0 +1,372 @@
+[
+ {
+  "id": 1,
+  "missing": "butter",
+  "have": [
+   "oil",
+   "milk",
+   "egg",
+   "bread"
+  ],
+  "acceptable": [
+   "oil"
+  ]
+ },
+ {
+  "id": 2,
+  "missing": "butter",
+  "have": [
+   "margarine",
+   "cheese",
+   "rice"
+  ],
+  "acceptable": [
+   "margarine"
+  ]
+ },
+ {
+  "id": 3,
+  "missing": "milk",
+  "have": [
+   "yogurt",
+   "egg",
+   "flour",
+   "butter"
+  ],
+  "acceptable": [
+   "yogurt"
+  ]
+ },
+ {
+  "id": 4,
+  "missing": "milk",
+  "have": [
+   "cream",
+   "rice",
+   "tomato"
+  ],
+  "acceptable": [
+   "cream"
+  ]
+ },
+ {
+  "id": 5,
+  "missing": "cream",
+  "have": [
+   "milk",
+   "butter",
+   "pasta",
+   "garlic"
+  ],
+  "acceptable": [
+   "milk"
+  ]
+ },
+ {
+  "id": 6,
+  "missing": "cream",
+  "have": [
+   "yogurt",
+   "onion",
+   "carrot"
+  ],
+  "acceptable": [
+   "yogurt"
+  ]
+ },
+ {
+  "id": 7,
+  "missing": "egg",
+  "have": [
+   "banana",
+   "flour",
+   "milk"
+  ],
+  "acceptable": [
+   "banana"
+  ]
+ },
+ {
+  "id": 8,
+  "missing": "egg",
+  "have": [
+   "yogurt",
+   "flour",
+   "sugar"
+  ],
+  "acceptable": [
+   "yogurt"
+  ]
+ },
+ {
+  "id": 9,
+  "missing": "lemon",
+  "have": [
+   "lime",
+   "garlic",
+   "chicken"
+  ],
+  "acceptable": [
+   "lime"
+  ]
+ },
+ {
+  "id": 10,
+  "missing": "lemon",
+  "have": [
+   "vinegar",
+   "fish",
+   "butter"
+  ],
+  "acceptable": [
+   "vinegar"
+  ]
+ },
+ {
+  "id": 11,
+  "missing": "rice",
+  "have": [
+   "pasta",
+   "onion",
+   "chicken"
+  ],
+  "acceptable": [
+   "pasta"
+  ]
+ },
+ {
+  "id": 12,
+  "missing": "rice",
+  "have": [
+   "couscous",
+   "carrot",
+   "pea"
+  ],
+  "acceptable": [
+   "couscous"
+  ]
+ },
+ {
+  "id": 13,
+  "missing": "pasta",
+  "have": [
+   "rice",
+   "tomato",
+   "garlic"
+  ],
+  "acceptable": [
+   "rice"
+  ]
+ },
+ {
+  "id": 14,
+  "missing": "pasta",
+  "have": [
+   "noodles",
+   "garlic",
+   "cheese"
+  ],
+  "acceptable": [
+   "noodles"
+  ]
+ },
+ {
+  "id": 15,
+  "missing": "chicken",
+  "have": [
+   "turkey",
+   "rice",
+   "onion"
+  ],
+  "acceptable": [
+   "turkey"
+  ]
+ },
+ {
+  "id": 16,
+  "missing": "chicken",
+  "have": [
+   "tofu",
+   "broccoli",
+   "garlic"
+  ],
+  "acceptable": [
+   "tofu"
+  ]
+ },
+ {
+  "id": 17,
+  "missing": "chicken",
+  "have": [
+   "mushroom",
+   "potato",
+   "onion"
+  ],
+  "acceptable": [
+   "mushroom"
+  ]
+ },
+ {
+  "id": 18,
+  "missing": "beef",
+  "have": [
+   "lamb",
+   "potato",
+   "onion"
+  ],
+  "acceptable": [
+   "lamb"
+  ]
+ },
+ {
+  "id": 19,
+  "missing": "onion",
+  "have": [
+   "shallot",
+   "tomato",
+   "egg"
+  ],
+  "acceptable": [
+   "shallot"
+  ]
+ },
+ {
+  "id": 20,
+  "missing": "onion",
+  "have": [
+   "green onion",
+   "potato",
+   "cheese"
+  ],
+  "acceptable": [
+   "green onion"
+  ]
+ },
+ {
+  "id": 21,
+  "missing": "garlic",
+  "have": [
+   "onion",
+   "pasta",
+   "tomato"
+  ],
+  "acceptable": [
+   "onion",
+   "shallot"
+  ]
+ },
+ {
+  "id": 22,
+  "missing": "bread",
+  "have": [
+   "tortilla",
+   "cheese",
+   "egg"
+  ],
+  "acceptable": [
+   "tortilla"
+  ]
+ },
+ {
+  "id": 23,
+  "missing": "potato",
+  "have": [
+   "sweet potato",
+   "onion",
+   "butter"
+  ],
+  "acceptable": [
+   "sweet potato"
+  ]
+ },
+ {
+  "id": 24,
+  "missing": "spinach",
+  "have": [
+   "kale",
+   "egg",
+   "cheese"
+  ],
+  "acceptable": [
+   "kale"
+  ]
+ },
+ {
+  "id": 25,
+  "missing": "lettuce",
+  "have": [
+   "cabbage",
+   "tomato",
+   "cucumber"
+  ],
+  "acceptable": [
+   "cabbage",
+   "spinach"
+  ]
+ },
+ {
+  "id": 26,
+  "missing": "broccoli",
+  "have": [
+   "cauliflower",
+   "garlic",
+   "carrot"
+  ],
+  "acceptable": [
+   "cauliflower"
+  ]
+ },
+ {
+  "id": 27,
+  "missing": "zucchini",
+  "have": [
+   "cucumber",
+   "tomato",
+   "onion"
+  ],
+  "acceptable": [
+   "cucumber",
+   "eggplant"
+  ]
+ },
+ {
+  "id": 28,
+  "missing": "chickpea",
+  "have": [
+   "kidney bean",
+   "onion",
+   "tomato"
+  ],
+  "acceptable": [
+   "kidney bean",
+   "lentil",
+   "black bean"
+  ]
+ },
+ {
+  "id": 29,
+  "missing": "honey",
+  "have": [
+   "sugar",
+   "lemon",
+   "tea"
+  ],
+  "acceptable": [
+   "sugar",
+   "maple syrup"
+  ]
+ },
+ {
+  "id": 30,
+  "missing": "cilantro",
+  "have": [
+   "parsley",
+   "tomato",
+   "lime"
+  ],
+  "acceptable": [
+   "parsley",
+   "basil"
+  ]
+ }
+]

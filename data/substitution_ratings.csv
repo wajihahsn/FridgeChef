@@ -1,0 +1,35 @@
+case_id,missing,have,source,suggestion,reason,rating,rater1,rater2,rater3
+1,butter,"brandy, egg, milk, oil",rule,oil,liquid fat works for sauteing and baking,,1,2,1
+2,butter,"cheese, margarine, rice",rule,margarine,same fat content and texture,,2,2,2
+2,butter,"cheese, margarine, rice",embedding,margarine,used in similar recipes (similarity 0.71),,2,2,2
+3,milk,"butter, egg, flour, yogurt",rule,yogurt,thin it with a little water for the same creaminess,,1,2,1
+4,milk,"cream, rice, tomato",rule,cream,"richer, dilute with water",,2,2,1
+5,cream,"butter, garlic, milk, pasta",rule,milk,lighter; add a little butter for richness,,1,2,1
+6,cream,"carrot, onion, yogurt",rule,yogurt,"tangy, creamy texture",,1,2,1
+7,egg,"banana, flour, milk",rule,banana,binds baked goods; adds sweetness,,1,2,1
+7,egg,"banana, flour, milk",rule,flour,thickens and binds in patties,,0,1,0
+8,egg,"flour, sugar, yogurt",rule,yogurt,adds moisture and binding,,1,2,1
+8,egg,"flour, sugar, yogurt",rule,flour,thickens and binds in patties,,0,1,0
+9,lemon,"chicken, garlic, lime",rule,lime,same citrus acidity,,2,2,2
+10,lemon,"butter, fish, vinegar",rule,vinegar,provides the sourness,,1,2,1
+11,rice,"chicken, onion, pasta",rule,pasta,similar starchy base,,1,2,1
+12,rice,"carrot, couscous, pea",rule,couscous,quick-cooking grain,,2,2,1
+13,pasta,"garlic, rice, tomato",rule,rice,similar starchy base,,1,2,1
+14,pasta,"cheese, garlic, noodles",rule,noodles,same shape and role,,2,2,2
+15,chicken,"onion, rice, turkey",rule,turkey,very similar lean white meat,,2,2,2
+16,chicken,"broccoli, garlic, tofu",rule,tofu,plant protein that absorbs flavour,,1,2,1
+17,chicken,"mushroom, onion, potato",rule,mushroom,meaty texture,,1,1,0
+18,beef,"lamb, onion, potato",rule,lamb,similar rich red meat,,2,2,1
+19,onion,"egg, shallot, tomato",rule,shallot,milder onion flavour,,2,2,2
+20,onion,"cheese, green onion, potato",rule,green onion,mild onion flavour,,1,2,1
+21,garlic,"onion, pasta, tomato",rule,onion,savoury aromatic base,,1,1,0
+22,bread,"cheese, egg, tortilla",rule,tortilla,flat wrap instead of slices,,1,2,1
+23,potato,"butter, onion, sweet potato",rule,sweet potato,same starchy texture,,2,2,1
+24,spinach,"cheese, egg, kale",rule,kale,similar leafy green,,2,2,2
+25,lettuce,"cabbage, cucumber, tomato",rule,cabbage,crunchy leaves,,1,2,1
+26,broccoli,"carrot, cauliflower, garlic",rule,cauliflower,"same family, same cooking time",,2,2,2
+26,broccoli,"carrot, cauliflower, garlic",embedding,cauliflower,used in similar recipes (similarity 0.77),,2,2,2
+27,zucchini,"cucumber, onion, tomato",rule,cucumber,"similar mild, watery vegetable",,1,1,0
+28,chickpea,"kidney bean, onion, tomato",rule,kidney bean,similar protein-rich bean,,2,2,1
+29,honey,"lemon, sugar, tea",rule,sugar,sweetens; add a splash of water,,1,2,1
+30,cilantro,"lime, parsley, tomato",rule,parsley,fresh green herb,,1,2,1
